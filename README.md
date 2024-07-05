@@ -1,10 +1,9 @@
-# Hi
-
-  
 ## Languages
 | C | C++ | Java | Swift | Python |
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>| 
+
+<!--
 
 ### OS:
 
@@ -12,7 +11,6 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
-<!--
   
 ### Best frameworks and main libraries for Python3:
 
